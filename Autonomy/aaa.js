@@ -1,0 +1,1 @@
+define([],function(){function e(e){this._globe=e;this._viewer=e._viewer;this._globeId=e._globeId}e.prototype.aaa=function(){};return e});
